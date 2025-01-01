@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tribal-ethos-445409-s7",
+  "private_key_id": "1e76001e52b46b464f0e5c413f16e1c4ec9cb875",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCivyI4w7UeljEe\nEi6/1hYxu0wT3WXT83N3dDsp5ctzTZPo8efXf/uqt0aVpcCPxJJDc1tYFeg1tjvF\nGaasNGmKvbCW3m/OoQUwZdg5zw+vLDbqLCzyRAmDYG1HSYHa4FkvY0IzBM63KkSK\n2gcOnIuTfeNvi6Z7NWjstZGPkM9TH3FSpfJc8qI5fEI/j5lhc31TaSGaIitSPDjF\n8Or8kHpIIarAdkeuM8Zxj/VflctQeSDv5am0KLROJj1GJCRxpEcGQla7o9kmiefU\nSAkl/rmVk8pacrohD4O0SbKwjlIoodEUgC0z4RUk/kLLSu+WSweLzrEC/UNL+CbL\nNV1sOmBBAgMBAAECggEAA1alJLG0DpBxab7g/V+uhR7k1r/7CaPj9Zp5Z7i+aYs4\n+mVy9m9aSeRYUvPLXU+gmfhc8nPBl495Tqfh7MSm+Rj+zTt7IuuX7AgczUPHfDYN\nmtRk6CPX551j5HtYKfWh8rhIKHyD4otADHKgRC8XKGOD1bsRQ1QDRt7LIX0smZWC\nQbv6vz+Q/aPAe4YoFRzvq1kF8RVjqWlPOfo4ceKrlPZDDfLK6tmlxx5Pgg9RfA8w\nnunYpeL48R49+eaDNKZOL0d26/wv2HvcKSt/xzeS6RPjS4rzbmCE6Fu767uFxSm4\nQ/sL+aE8J7Z7KbgJI5BgC6fr9k1DFxerJlGN41jI6QKBgQDeJGnU/QdTYvXthrJz\nqzSbFsFDey3VhPq1rCwZy/9T6+kli7PJd1LoOuXtT/tfTVH2Dsr28az2nG+yWitY\nEoPuTwo+cJQI9a9r3/YrW/lH2JoYmen5wlpF+Oit+Xwml2lHHvsPyd8QaJ60R3ne\niZHiWPZPzHKRqXQC9YUIC1DnyQKBgQC7jTYAPoL7ZLl733gt0y+3E2qRVhccsGNz\n3BsLxbGlogRLLqXP8zfd8ttTtRcRtCRM+Bqpq5X7CnBgqxZdd4Wu48wcTTsefl00\ntOb6PXIgtUcgI6ZwSD9c14LD7hcYzJA38Zq8gLMa9DBa/b6rlTTN4jspu8uTyje7\n9h36U9vguQKBgHml9TLG8akPa1+MwNKo8eDwQBulK/9emDC+vVPPK96YNQ/zhhwQ\ntR0pi9o+T4jr/bNCfJFo3XAbUOuZh1zunsL1E8YHvnl9mXf4qIUsE8Htcs2AE+pL\nLUZePYVwNzWm+ucQpyoJQZdpw2c0MR/VtEcAsroWWrM72aT5MMWr9L1JAoGAHnao\nX8/HjLfmnOVGawMTjAQeWi8GoAVSkh4dUoMxALtZQTD5g9Z4q5dn4qfWcGy3PL1L\n72VMfjNK35jKkDH6x9Z+b9ZnlONnlkkP/3N9lyx6uhCwVyqVCCqFNff1TnTjtAKN\nZLLu5KDnPdBbaRlaM1rcy0GSppXBCcnHQsLeQxkCgYApmhCx/NbNwGd/j8mrPU+q\n04G6KvjWj2LHLbZB6Jz3ugB9iXUP5wezRXW+xgPHINomzBqUkUZ680KjuS6WdjAr\nCIhrzj9zGMxFgcyOAhHSEch66CmVU41D4Tl/un7zC/Ga8SmZEeyFEELClOhR5cBv\npJgp4wqN3l9mhFS99s9YLA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "lecturetosummary@tribal-ethos-445409-s7.iam.gserviceaccount.com",
+  "client_id": "112776624558523998877",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lecturetosummary%40tribal-ethos-445409-s7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
