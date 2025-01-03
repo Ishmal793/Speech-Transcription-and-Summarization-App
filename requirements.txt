@@ -1,5 +1,4 @@
 
-tempfile
 requests
 textwrap
 fpdf 
