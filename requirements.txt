@@ -1,6 +1,7 @@
 # Core libraries
 streamlit  # Ensure Streamlit is installed at this version
 whisper # OpenAI Whisper model library for transcription
+openai-whisper
 langchain  # LangChain for processing and summarization
 langchain-google-genai # Google Generative AI integration for LangChain
 chromadb # Chroma for vector stores
