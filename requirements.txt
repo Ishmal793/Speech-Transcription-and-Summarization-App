@@ -8,3 +8,13 @@ PyPDF2
 pytube
 pydub
 yt-dlp
+ os
+ time
+ tempfile
+requests
+textwrap
+uuid 
+PyPDF2
+shutil
+datetime 
+warnings
