@@ -4,6 +4,7 @@ reportlab
 whisper
 langchain
 langchain-google-genai
+ langchain_community
 PyPDF2
 pytube
 pydub
