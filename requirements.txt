@@ -8,7 +8,7 @@ chromadb # Chroma for vector stores
 PyPDF2  # For PDF reading and handling
 fpdf # For generating simple PDFs
 reportlab  # For advanced PDF generation
-textwrap
+
 time
 tempfile
 requests
