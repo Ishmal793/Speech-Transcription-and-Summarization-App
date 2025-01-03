@@ -1,23 +1,22 @@
-fpdf==1.7.2                      # Library for creating PDFs
-reportlab==3.6.13                # Library for advanced PDF generation
-streamlit==1.26.0                # Framework for building web apps
-whisper==1.0                     # OpenAI Whisper model library
-langchain==0.0.232               # For language processing and vector stores
-PyPDF2==3.0.0                    # For reading and handling PDFs
-requests==2.31.0                 # HTTP requests
-google-cloud-storage==2.9.0      # Google Cloud Storage client library
-google-cloud-bigquery==3.11.2    # Google BigQuery client library
-langchain-google-genai==0.0.4    # LangChain with Google Generative AI embeddings
-chromadb==0.4.3                  # Chroma for managing vector stores
-shutil-compat==0.5.1             # Compatibility for shutil functions
-fpdf==1.7.2            # Library for creating PDFs
-reportlab==3.6.13      # Library for advanced PDF generation
-streamlit==1.26.0      # Framework for building web apps
-whisper==1.0           # OpenAI Whisper model library
-langchain==0.0.232     # For language processing and vector stores
-PyPDF2==3.0.0          # For reading and handling PDFs
-requests==2.31.0       # HTTP requests
-google-cloud==2.12.0   # Google Cloud client library
-langchain-google-genai==0.0.4  # LangChain with Google Generative AI embeddings
-chromadb==0.4.3        # Chroma for managing vector stores
-shutil-compat==0.5.1 
+# Core libraries
+streamlit==1.41.1  # Ensure Streamlit is installed at this version
+whisper==1.0  # OpenAI Whisper model library for transcription
+langchain==0.0.232  # LangChain for processing and summarization
+langchain-google-genai==0.0.4  # Google Generative AI integration for LangChain
+chromadb==0.4.3  # Chroma for vector stores
+PyPDF2==3.0.0  # For PDF reading and handling
+fpdf==1.7.2  # For generating simple PDFs
+reportlab==3.6.13  # For advanced PDF generation
+
+# Audio and video processing
+pydub==0.25.1  # For handling and converting audio files
+yt-dlp==2023.10.22  # For downloading YouTube videos
+pytube==12.1.0  # For working with YouTube content
+
+# Other utilities
+requests==2.31.0  # For making HTTP requests
+google-cloud==2.12.0  # Google Cloud client library
+shutil-compat==0.5.1  # File operations (compatibility package)
+
+# Time and date
+datetime  # Standard Python library; no installation needed
