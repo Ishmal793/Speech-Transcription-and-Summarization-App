@@ -1,22 +1,22 @@
 # Core libraries
-streamlit==1.41.1  # Ensure Streamlit is installed at this version
-whisper==1.0  # OpenAI Whisper model library for transcription
-langchain==0.0.232  # LangChain for processing and summarization
-langchain-google-genai==0.0.4  # Google Generative AI integration for LangChain
-chromadb==0.4.3  # Chroma for vector stores
-PyPDF2==3.0.0  # For PDF reading and handling
-fpdf==1.7.2  # For generating simple PDFs
-reportlab==3.6.13  # For advanced PDF generation
+streamlit  # Ensure Streamlit is installed at this version
+whisper # OpenAI Whisper model library for transcription
+langchain  # LangChain for processing and summarization
+langchain-google-genai # Google Generative AI integration for LangChain
+chromadb # Chroma for vector stores
+PyPDF2  # For PDF reading and handling
+fpdf # For generating simple PDFs
+reportlab  # For advanced PDF generation
 
 # Audio and video processing
-pydub==0.25.1  # For handling and converting audio files
-yt-dlp==2023.10.22  # For downloading YouTube videos
-pytube==12.1.0  # For working with YouTube content
+pydub # For handling and converting audio files
+yt-dlp # For downloading YouTube videos
+pytube # For working with YouTube content
 
 # Other utilities
-requests==2.31.0  # For making HTTP requests
-google-cloud==2.12.0  # Google Cloud client library
-shutil-compat==0.5.1  # File operations (compatibility package)
+requests # For making HTTP requests
+google-cloud  # Google Cloud client library
+shutil-compat  # File operations (compatibility package)
 
 # Time and date
 datetime  # Standard Python library; no installation needed
