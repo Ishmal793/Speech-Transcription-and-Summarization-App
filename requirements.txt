@@ -1,3 +1,4 @@
+python3.10
 streamlit
 fpdf
 reportlab
@@ -9,9 +10,7 @@ PyPDF2
 pytube
 pydub
 yt-dlp
-
- time
- tempfile
+tempfile
 requests
 textwrap
 uuid 
