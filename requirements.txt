@@ -8,7 +8,7 @@ langchain-google-genai
 PyPDF2
 pytube
 pydub
-yt-dlp==2023.10.22
+yt-dlp
 chroma-langchain
 google-cloud-language
 google-cloud-storage
