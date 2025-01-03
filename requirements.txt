@@ -1,13 +1,15 @@
-streamlit==1.26.0
-fpdf==1.7.2
-reportlab==3.6.14
-whisper==1.0
-langchain==0.0.225
-langchain-google-genai==0.2.1
-PyPDF2==3.0.1
-pytube==15.0.0
-pydub==0.25.1
+--upgrade pip
+
+streamlit
+fpdf
+reportlab
+whisper
+langchain
+langchain-google-genai
+PyPDF2
+pytube
+pydub
 yt-dlp==2023.10.22
-chroma-langchain==0.0.2
-google-cloud-language==2.6.3
-google-cloud-storage==2.10.0
+chroma-langchain
+google-cloud-language
+google-cloud-storage
