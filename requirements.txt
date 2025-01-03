@@ -1,35 +1,20 @@
-# Core libraries
-streamlit  # Ensure Streamlit is installed at this version
-whisper # OpenAI Whisper model library for transcription
-openai-whisper
-langchain  # LangChain for processing and summarization
-langchain-google-genai # Google Generative AI integration for LangChain
-chromadb # Chroma for vector stores
-PyPDF2  # For PDF reading and handling
-fpdf # For generating simple PDFs
-reportlab  # For advanced PDF generation
 
 time
 tempfile
 requests
-fpdf
+textwrap
+fpdf 
 reportlab
 streamlit
-
-uuid
-pypdf2
-chromadb
-
-
-# Audio and video processing
-pydub # For handling and converting audio files
-yt-dlp # For downloading YouTube videos
-pytube # For working with YouTube content
-
-# Other utilities
-requests # For making HTTP requests
-google-cloud  # Google Cloud client library
-shutil-compat  # File operations (compatibility package)
-
-# Time and date
-datetime  # Standard Python library; no installation needed
+whisper
+openai-whisper
+uuid 
+langchain_community
+langchain_google_genai 
+PyPDF2 
+shutil
+datetime 
+warnings
+pytube 
+ pydub 
+yt_dlp
