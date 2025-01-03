@@ -7,6 +7,19 @@ chromadb # Chroma for vector stores
 PyPDF2  # For PDF reading and handling
 fpdf # For generating simple PDFs
 reportlab  # For advanced PDF generation
+textwrap
+time
+tempfile
+requests==2.31.0
+fpdf==1.7.2
+reportlab==3.6.12
+streamlit==1.25.0
+langchain==0.100.0
+langchain-google-genai==0.1.2
+uuid
+pypdf2==3.0.1
+chromadb==0.4.8
+
 
 # Audio and video processing
 pydub # For handling and converting audio files
